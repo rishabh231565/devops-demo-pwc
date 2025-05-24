@@ -7,5 +7,9 @@ public class HelloWorld {
 		System.out.println("Hello there!!!");
 
 	}
+	// from b1 branch
+	public void m1() {
+		System.out.println("from m1");
+	}
 
 }
